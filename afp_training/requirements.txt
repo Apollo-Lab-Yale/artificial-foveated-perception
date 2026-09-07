@@ -1,0 +1,14 @@
+torch>=2.0
+torchvision
+numpy
+Pillow
+pycocotools
+tqdm
+cython
+scipy
+timm
+imgaug
+opencv-python
+wandb
+easing-functions
+clip @ git+https://github.com/openai/CLIP.git

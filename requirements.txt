@@ -1,0 +1,12 @@
+# AFP (Artificial Foveated Perception) - core dependencies
+torch>=2.0
+torchvision
+numpy
+Pillow
+
+# Frozen CLIP text encoder used for task conditioning
+clip @ git+https://github.com/openai/CLIP.git
+
+# Optional - only needed for afp_integrations.attention_aux_loss.AttentionCaptureForLoss,
+# which hooks the Hugging Face Gemma eager attention implementation:
+#   pip install transformers
