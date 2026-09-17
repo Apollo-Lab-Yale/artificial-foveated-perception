@@ -67,7 +67,7 @@ Frames are processed in windows of five, the same length as in training. `model.
 ```bibtex
 @article{sun2026artificial,
   title={Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models},
-  author={Sun, Xiatao and Zhuang, Yuan and Negrete, Mateo Sanchez Lopez and Coldea, Matei-Victor and Liang, Chen and Zhang, Haoyang and Liu, Che and Zeng, Ziyao and Li, Shawn and Wang, Qian and others},
+  author={Sun, Xiatao and Zhuang, Yuan and Negrete, Mateo Sanchez Lopez and Coldea, Matei-Victor and Liang, Chen and Zhang, Haoyang and Liu, Che and Zeng, Ziyao and Li, Shawn and Wang, Qian and Miao, Fei and Rakita, Daniel},
   journal={arXiv preprint arXiv:2607.10655},
   year={2026}
 }
